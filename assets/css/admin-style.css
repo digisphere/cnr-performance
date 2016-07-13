@@ -1,0 +1,22 @@
+.settings_page_cnr-performance-settings .wrap > form {
+  max-width: 600px;
+  background: white;
+  padding: 0 25px;
+  border-radius: 4px;
+  border-bottom: 3px solid #b1b1b1; }
+
+.settings_page_cnr-performance-settings h2 {
+  margin: 0 -25px;
+  font-weight: 300;
+  font-size: 25px;
+  border-top: 1px solid #f1f1f1;
+  border-bottom: 1px solid #f1f1f1;
+  padding: 25px; }
+
+.settings_page_cnr-performance-settings .form-table tr {
+  border-bottom: 1px solid #f1f1f1; }
+  .settings_page_cnr-performance-settings .form-table tr:last-child {
+    border-bottom: 0; }
+
+.settings_page_cnr-performance-settings .form-table th {
+  width: 540px; }
